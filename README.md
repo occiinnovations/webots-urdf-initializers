@@ -46,11 +46,6 @@ StarterTemplates/
     │   
     └── Ur5e/...
 ```
-
-### Note
-
-I am in the process of updating the file names to include integers. As seen by UR5e addition.
-
 ## Template Specification
 
 Every template in this repository runs the exact same baseline hardware setup sequence to bring a robot model to a ready state:
@@ -94,7 +89,15 @@ Follow these steps to create a new controller in Webots so that you can copy and
 
 * [ ] Add an FK/IK solver template alongside each of the starter templates.
 
-## Robot Index
+## External Links
+
+* Quick C++ Parser: [tinyxml_joint_parser](https://github.com/occiinnovations/tinyxml_joint_parser)
+* URDF Collection: [urdfs](https://github.com/Daniella1/urdf_files_dataset)
+* Webots Official: [webots](https://github.com/cyberbotics/webots)
+
+## Robot Docs
+
+This section serves as a quick information guide on some of the robots or entities concerning this repo. Eventually I will put it in a wiki or proper documentation page.
 
 |Robot|About|Company Page|Official Documentation|
 |:---|:---|:---|:---|
