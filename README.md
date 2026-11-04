@@ -1,8 +1,8 @@
 <img width="2022" height="1124" alt="webots-bin_9NY1MoBC8U" src="https://github.com/user-attachments/assets/ad9a33fa-2ae4-463e-8a3e-998f95e5176f" />
 
-# RobotSim-Templates
+# Webots - URDF Initializers
 
-Universal initialization templates for robot models across simulation environments.
+Initilazation in 5 programming languages for varying URDFs within Webots.The purpose of this is to help with onboarding, and lower the time before first tests and simulation runs.
 
 ## Directory Map
 
@@ -90,9 +90,9 @@ Follow these steps to create a new controller in Webots so that you can copy and
 
 * [x] Add an OpenCV + NumPy connection template for Python
 
-* [ ] Add an FK/IK solver template alongside each of the starter templates.
+* [x] Add a parser for URDF files
 
-* [ ] Expand the repository to include versions designed other sims such as MuJoCo and Gazebo with ROS2 compatibility.
+* [ ] Add an FK/IK solver template alongside each of the starter templates.
 
 ## Robot Index
 
