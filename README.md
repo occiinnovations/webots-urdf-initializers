@@ -18,7 +18,7 @@ StarterTemplates/
 │   │
 │   └── requirements.txt
 │
-└── Webots/
+└── src/
     ├── Puma560/
     │   ├── C/...
     │   ├── C++/...
