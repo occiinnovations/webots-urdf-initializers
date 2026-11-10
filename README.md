@@ -2,6 +2,9 @@
 
 # Webots - URDF Initializers
 
+# ⚠️REPO TO BE SPLIT⚠️
+This repo will be having Java and MATLAB stripped, and then will be split into 'webots-python' and 'webots-compiled'.
+---------
 Initilazation in 5 programming languages for varying URDFs within Webots.The purpose of this is to help with onboarding, and lower the time before first tests and simulation runs.
 
 ## Directory Map
